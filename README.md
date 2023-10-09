@@ -1,2 +1,0 @@
-# paint-board
-paint-board
